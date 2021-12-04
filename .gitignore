@@ -109,6 +109,15 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ann_implementation_env/
+.vscode/
+.idea/
+LIVE_demo/
+myneuron/
+queries/
+ann_demo/
+
+
 
 # Spyder project settings
 .spyderproject
